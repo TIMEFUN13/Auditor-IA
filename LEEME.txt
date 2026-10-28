@@ -1,0 +1,19 @@
+IDENTIFICADOR DE PARTÍCULAS C175 · paquete para tablets y celulares
+=====================================================================
+Esta carpeta es la misma app preparada para instalarse en Android, iPad,
+iPhone o PC y funcionar SIN INTERNET después de abrirla una vez.
+
+1) Publique la carpeta completa en una dirección HTTPS (los navegadores
+   móviles solo permiten la cámara y el modo sin internet desde HTTPS):
+   - Servidor web interno de TI (lo más recomendable para datos internos), o
+   - GitHub Pages (repositorio con estos archivos → Settings → Pages), o
+   - Netlify Drop (arrastrar la carpeta a app.netlify.com/drop).
+2) En la tablet o celular abra esa dirección UNA vez con Chrome (Android)
+   o Safari (iPad/iPhone).
+3) Instale:  Android → menú ⋮ → «Instalar app» / «Agregar a pantalla principal».
+             iPad/iPhone → botón Compartir → «Agregar a pantalla de inicio».
+4) Listo: el ícono abre la app aunque no haya internet.
+
+Para actualizar: vuelva a publicar la carpeta y abra la app con internet una vez.
+Compartir pantalla: disponible en PC y en iPad/iPhone con iOS 27 o superior.
+Android no lo permite desde el navegador: use la cámara o una captura de pantalla.
